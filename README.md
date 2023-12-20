@@ -1,3 +1,3 @@
 # HTML Tutorial
 
-Home of html.
+This directory is for html codes and program.
